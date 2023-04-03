@@ -6,3 +6,6 @@ It is a desktop application that helps people to chat with each other. Here I ha
   • Window Builder should be installed in Eclipse\
   • Basics of Swing and AWT  retuen\
   • Server-Socket Basics  retuen
+  
+# Use Case Diagrame
+   <img src="https://github.com/ravindrapaswan2762/ChatApp--A-Desktop-Chatting-Application/blob/main/chart.png", alt="MLBC">
